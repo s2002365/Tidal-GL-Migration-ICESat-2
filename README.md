@@ -18,5 +18,5 @@ Notebooks (to be executed in order) - _(environment)_:
 * _pyTMD_ : install using the *tides/environment.yml* file.
 
 **Required Downloads** 
-*ATL06 granules over study area*.
-*CATS2008 tide model*. CATS2008 is available for download through the U.S. Antarctic Program Data Center: Data DOI: 10.15784/601235.
+* ATL06 granules over study area.
+* *CATS2008 tide model*. CATS2008 is available for download through the U.S. Antarctic Program Data Center: Data DOI: 10.15784/601235.
