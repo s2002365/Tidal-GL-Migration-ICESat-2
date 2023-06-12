@@ -8,9 +8,13 @@ Author: Bryony Freer, British Antarctic Survey
 Co-Authors: Oliver Marsh, Anna Hogg, Helen A. Fricker, Laurie Padman
 
 Notebooks (to be executed in order) - _(environment)_: 
+
 (1) Compute ATL06 Along-Track Tides-published - _(pyTMD)_
+
 (2) ATL06_PlotRepeatTracks-published - _(tidal-mig)_
+
 (3) Plot Tide Distribution for XYT-published - _(pyTMD)_
+
 (4) Identify F Points by Tide-published - - _(tidal-mig)_
 
 **Python Conda Environments**
