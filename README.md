@@ -38,9 +38,9 @@ Co-Authors: Oliver Marsh, Anna Hogg, Helen A. Fricker, Laurie Padman
 
 (4) Identify F Points by Tide
 * Elevation anomaly per cycle, with 2nd derivative used to locate Point F
-* <img src="img/Track0574_GT3L_cyc06_F_id_plot.png" width="350" height="250">
+* <img src="img/Track0574_GT3L_cyc06_F_id_plot.png" width="450" height="250">
 * CSV of Point F locations to be plotted on map.
-* <img src="img/Track0574_GT3L_Flocations_auto.png" width="600" height="150">
+* <img src="img/Track0574_GT3L_Flocations_auto.png" width="900" height="100">
 
   
 **Code Structure**
