@@ -29,6 +29,7 @@ Co-Authors: Oliver Marsh, Anna Hogg, Helen A. Fricker, Laurie Padman
 **(2) ATL06_PlotRepeatTracks-published**
 * Along-track elevation profile per ground track 
 <img src="img/Track0574_GT3L_elevation_cycs04060708111214_lowest.png" width="400" height="250">
+
 * Along-track elevation anomalies per ground track
 <img src="img/Track0574_GT3L_repeats_anom___cycs04060708111214_lowest.png" width="400" height="250">
 
