@@ -9,13 +9,13 @@ Co-Authors: Oliver Marsh, Anna Hogg, Helen A. Fricker, Laurie Padman
 
 ### Notebooks (to be executed in order) - _(conda environment)_: 
 
-(1) tides/Compute ATL06 Along-Track Tides-published - _(pyTMD)_
+1. tides/(1) Compute ATL06 Along-Track Tides-published - _(pyTMD)_
 
-(2) ATL06_PlotRepeatTracks-published - _(tidal-mig)_
+2. (2) ATL06_PlotRepeatTracks-published - _(tidal-mig)_
 
-(3) tides/Plot Tide Distribution for XYT-published - _(pyTMD)_
+3. tides/(3) Plot Tide Distribution for XYT-published - _(pyTMD)_
 
-(4) Identify F Points by Tide-published - _(tidal-mig)_
+4. (4) Identify F Points by Tide-published - _(tidal-mig)_
 
 ### Python Conda Environments
 * _tidal-mig_ : install using the *environment.yml* file in this directory. 
