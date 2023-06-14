@@ -29,7 +29,7 @@ Co-Authors: Oliver Marsh, Anna Hogg, Helen A. Fricker, Laurie Padman
 (2) ATL06_PlotRepeatTracks-published
 * Along-track elevation profile per ground track 
 * Along-track elevation anomalies per ground track
-<img src="img/Track0574_GT3L_elevation_cycs04060708111214_lowest.png" width="200" height="100">
+<img src="img/Track0574_GT3L_elevation_cycs04060708111214_lowest.png" width="350" height="200">
   
 **Code Structure**
 ![Diagram showing code structure in this repo](img/tidal-mig-code-diagram.png)
