@@ -22,8 +22,11 @@ Co-Authors: Oliver Marsh, Anna Hogg, Helen A. Fricker, Laurie Padman
 * _pyTMD_ : install using the *tides/environment.yml* file.
 
 **Required Downloads** 
-* ATL06 granules over study area.
-* *CATS2008 tide model*. CATS2008 is available for download through the U.S. Antarctic Program Data Center: Data DOI: 10.15784/601235.
+* ATL06 granules over study area. Download link: https://nsidc.org/data/atl06/versions/5
+* *CATS2008 tide model*. CATS2008 is available for download through the U.S. Antarctic Program Data Center: Data DOI: 10.15784/601235. Download link: https://www.usap-dc.org/view/dataset/601235
 
 **Example Outputs:**
 <insert figure outputs>
+  
+**Code Structure**
+![Diagram showing code structure in this repo](img/tidal-mig-code-diagram.png)
