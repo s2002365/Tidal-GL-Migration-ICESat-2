@@ -15,7 +15,7 @@ Co-Authors: Oliver Marsh, Anna Hogg, Helen A. Fricker, Laurie Padman
 
 (3) Plot Tide Distribution for XYT-published - _(pyTMD)_
 
-(4) Identify F Points by Tide-published - - _(tidal-mig)_
+(4) Identify F Points by Tide-published - _(tidal-mig)_
 
 ### Python Conda Environments
 * _tidal-mig_ : install using the *environment.yml* file in this directory. 
