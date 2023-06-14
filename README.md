@@ -42,8 +42,5 @@ Co-Authors: Oliver Marsh, Anna Hogg, Helen A. Fricker, Laurie Padman
 * CSV of Point F locations to be plotted on map.
 <img src="img/Track0574_GT3L_Flocations_auto.png" width="900" height="100">
 
-  
 **Code Structure**
 ![Diagram showing code structure in this repo](img/tidal-mig-code-diagram.png)
-<img src="img/tidal-mig-code-diagram.png" width="900" height="1200">
-
