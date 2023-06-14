@@ -45,3 +45,5 @@ Co-Authors: Oliver Marsh, Anna Hogg, Helen A. Fricker, Laurie Padman
   
 **Code Structure**
 ![Diagram showing code structure in this repo](img/tidal-mig-code-diagram.png)
+<img src="img/tidal-mig-code-diagram.png" width="900" height="1200">
+
